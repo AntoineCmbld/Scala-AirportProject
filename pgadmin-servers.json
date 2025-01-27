@@ -1,0 +1,14 @@
+{
+    "Servers": {
+        "1": {
+            "Name": "Airport Database",
+            "Group": "Servers",
+            "Host": "postgres",
+            "Port": 5432,
+            "MaintenanceDB": "postgres_db",
+            "Username": "postgres_user",
+            "Password": "postgres_password",
+            "SSLMode": "prefer"
+        }
+    }
+}
